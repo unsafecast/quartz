@@ -1,0 +1,6 @@
+/build/
+/build.ninja
+/genbuild
+/mnt/
+/.ninja_log
+
